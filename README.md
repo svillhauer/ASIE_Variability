@@ -15,7 +15,6 @@ ASIE_Variability
 ├── Presentations      # Research posters and slides
 ├── docs               # Files served via GitHub Pages
 ├── README.md          # Repository overview and documentation
-├── .gitignore         # Ignored files
 ```
 
 ---
