@@ -2,8 +2,6 @@
 ## Villhauer, S., Raphael, M., & Handcock, M. (2024). 
 ## University of California, Los Angeles. 
 
----
-
 This repository contains research and analysis on the variability of Antarctic sea ice extent (ASIE). It includes MATLAB scripts, datasets, and reports related to the temporal and spatial variability of Antarctic sea ice from 1979 onward.
 
 ---
