@@ -20,7 +20,7 @@ ASIE_Variability
 ---
 
 ## Research Overview
-### Understanding Antarctic Sea Ice Extent Variability
+### Goal: Understanding Antarctic Sea Ice Extent Variability
 Antarctic sea ice extent is influenced by various climatic and oceanic factors. This repository examines:
 - Annual minimum and maximum sea ice extent
 - Time of advance and retreat
@@ -41,7 +41,7 @@ For more details, check out:
 ---
 
 ## Data Access
-### Data Sources
+
 This project utilizes passive microwave data from the National Snow and Ice Data Center (NSIDC). Data files are available in the `/Data/` folder.
 
 ---
