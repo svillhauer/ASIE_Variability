@@ -1,1 +1,4 @@
-<iframe src="https://raw.githubusercontent.com/svillhauer/ASIE_Variability/main/docs/AGU_Poster.pdf" width="800px" height="600px"></iframe>
+<object data="https://svillhauer.github.io/ASIE_Variability/docs/AGU_Poster.pdf" 
+        width="1000" height="1000" 
+        type="application/pdf">
+</object>
