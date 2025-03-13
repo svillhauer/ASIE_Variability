@@ -2,6 +2,8 @@
 ## Villhauer, S., Raphael, M., & Handcock, M. (2024). 
 ## University of California, Los Angeles. 
 
+---
+
 This repository contains research and analysis on the variability of Antarctic sea ice extent (ASIE). It includes MATLAB scripts, datasets, and reports related to the temporal and spatial variability of Antarctic sea ice from 1979 onward.
 
 ---
@@ -34,18 +36,10 @@ Antarctic sea ice extent is influenced by various climatic and oceanic factors. 
 - Variability in advance and retreat correlates with mesoscale atmospheric circulation patterns.
 
 For more details, check out:
-- [Characteristics of ASIE Change](https://github.com/svillhauer/ASIE_Variability/blob/main/Presentations/Characteristics_of_ASIE_Change.pdf)
+- [Characteristics of ASIE Change](https://github.com/svillhauer/ASIE_Variability/blob/291d809057898438ae4cb772772a6fe5fd3608e1/Papers/Characteristics_of_ASIE_Change.pdf)
 - [AGU Research Poster](https://github.com/svillhauer/ASIE_Variability/blob/9af28cd58c307a5116a6ab6b5678f65deb2726aa/Presentations/AGU_Poster.pdf)
-- [Modeling the Annual Cycle of ASIE](https://github.com/svillhauer/ASIE_Variability/blob/main/Presentations/Modelling_the_Annual_Cycle_of_Daily_ASIE.pdf)
-
----
-
-## Code
-### MATLAB Scripts in `/Code/`
-#### Key scripts:
-- `annual_cycle_analysis.m` – Decomposes ASIE into its major components.
-- `sector_comparisons.m` – Evaluates inter-regional correlations.
-- `trend_analysis.m` – Computes linear trends in ASIE variability.
+- [Modeling the Annual Cycle of ASIE](https://github.com/svillhauer/ASIE_Variability/blob/291d809057898438ae4cb772772a6fe5fd3608e1/Papers/Modelling_the_Annual_Cycle_of_Daily_ASIE.pdf)
+- [UCLA Undergraduate Research Week](https://github.com/svillhauer/ASIE_Variability/blob/291d809057898438ae4cb772772a6fe5fd3608e1/Presentations/UGRW%20Presentation.pdf)
 
 ---
 
