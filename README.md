@@ -35,7 +35,7 @@ Antarctic sea ice extent is influenced by various climatic and oceanic factors. 
 For more details, check out:
 - [Characteristics of ASIE Change](https://github.com/svillhauer/ASIE_Variability/blob/291d809057898438ae4cb772772a6fe5fd3608e1/Papers/Characteristics_of_ASIE_Change.pdf)
 - [AGU Research Poster](https://github.com/svillhauer/ASIE_Variability/blob/9af28cd58c307a5116a6ab6b5678f65deb2726aa/Presentations/AGU_Poster.pdf)
-- [Modelling the Annual Cycle of ASIE](https://github.com/svillhauer/ASIE_Variability/blob/291d809057898438ae4cb772772a6fe5fd3608e1/Papers/Modelling_the_Annual_Cycle_of_Daily_ASIE.pdf)
+- [Modeling the Annual Cycle of ASIE](https://github.com/svillhauer/ASIE_Variability/blob/291d809057898438ae4cb772772a6fe5fd3608e1/Papers/Modelling_the_Annual_Cycle_of_Daily_ASIE.pdf)
 - [UCLA Undergraduate Research Week](https://github.com/svillhauer/ASIE_Variability/blob/291d809057898438ae4cb772772a6fe5fd3608e1/Presentations/UGRW%20Presentation.pdf)
 
 ---
